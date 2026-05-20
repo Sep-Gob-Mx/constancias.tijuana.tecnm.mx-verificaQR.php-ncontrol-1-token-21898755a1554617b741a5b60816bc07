@@ -1,0 +1,2 @@
+# constancias.tijuana.tecnm.mx-verificaQR.php-ncontrol-1-token-21898755a1554617b741a5b60816bc07
+21898755a1554617b741a5b60816bc07
